@@ -1,6 +1,7 @@
 
 # Hey There! 👋
-**I'm Diego** -  I'm a developer, creator and Duoc UC student. Passionate about learning new things and backend development
+**I'm Diego** -  I'm Diego - I'm a developer, Duoc UC student. Passionate about learning new things and backend development.
+Currently IT Engineer
 
 
 
