@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byancort/byancort/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byancort/byancort/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/byancort/byancort/output/pacman-contribution-graph.svg">
+</picture>
+
 <h1>Hi 👋, I'm Diego Cortes</h1>
 🔭 Working on backend projects with Java, and system integrations (OIC).<br>
 👯 Open to collaborating on web apps and API development.<br>
