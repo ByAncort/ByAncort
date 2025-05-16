@@ -5,7 +5,7 @@ Currently IT Engineer
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,php,cs,angular,dotnet,spring,laravel,tailwind,aws,mysql,git,github&perline=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,php,angular,dotnet,spring,laravel,tailwind,aws,mysql,git,github&perline=)](https://skillicons.dev)
 
 <p><a target="_blank" href="https://www.linkedin.com/in/diego-antonio-cortes-8843a7226" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
