@@ -16,6 +16,6 @@ Currently IT Engineer
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=byancort&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
 
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byancort&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byancort&layout=compact&theme=transparent&count_private=true&hide_border=true&exclude=HTML,CSS,JavaScript)</a>
 </details>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
